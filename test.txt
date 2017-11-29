@@ -1,2 +1,5 @@
 Change 1
 change 2 when do change 1 doing change 2 also
+change 3
+
+change 4  # to check git diff command
