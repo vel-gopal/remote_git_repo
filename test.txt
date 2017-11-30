@@ -1,5 +1,8 @@
 Change 1
 change 2 when do change 1 doing change 2 also
 change 3
+<<<<<<< HEAD
 
 change 4  # to check git diff command
+=======
+>>>>>>> 9c07aca4f5597f16e4e1d4386b062c35252db848
