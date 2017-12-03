@@ -1,4 +1,7 @@
-created this file in cloned repository
+this file in cloned repository I deleted created word
 
 This is the first commit in cloned repository
 
+Adding this line in actual git repository not cloned repository 
+
+using amend option to change fifth commit
