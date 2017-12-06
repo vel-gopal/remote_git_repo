@@ -1,0 +1,3 @@
+bug_test.txt is created in bug_branch and this is the first commit for bug branch
+
+This branch is created from sixth commit in master branch
